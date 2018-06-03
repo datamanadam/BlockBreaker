@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: eb34258b4d736244f8ae6a5f21ecc5f8
+timeCreated: 1513133368
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Winter Flakes
+  fontNames:
+  - Winter Flakes
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
